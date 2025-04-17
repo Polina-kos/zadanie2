@@ -6,4 +6,5 @@ _Описание проекта NeuroStartUp_:
 > * Низкая цена
 
 _Логотип_:
+
 ![Логотип NeuroStartUp](https://github.com/netology-ds-team/git-homeworks/raw/main/1_self/logo.png)
